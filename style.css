@@ -50,7 +50,28 @@ nav a:hover{
     transition: all 0.4s;
 }
 
+.copy{
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.abstract-info{
+    text-align: justify;
+    color: white;
+    font-size: 30px;
+    text-indent: 20px;
+    width: 70%;
+    min-height: 1200px;
+}
+
+.main-container{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 /*.banner-twitter:hover{
     left: 0px;
     transition-delay: all 0.4s;
 }*/
+
+/*https://colorhunt.co/palette/144399*/

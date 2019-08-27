@@ -23,7 +23,34 @@ nav a:hover{
     background-color: #eeeeee;
 }
 
+.banner{
+    position: relative;
+}
+
 .banner-image{
     margin: auto;
     width: 100%;
 }
+
+.banner-twitter{
+    position: absolute;
+    background-color: white;
+    width: 40%;
+    bottom: 4px;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    line-height: 25vh;
+    vertical-align: middle;
+    left: -800px;
+}
+
+.show-banner-twitter{
+    left: 0px;
+    transition: all 0.4s;
+}
+
+/*.banner-twitter:hover{
+    left: 0px;
+    transition-delay: all 0.4s;
+}*/

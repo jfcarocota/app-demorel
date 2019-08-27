@@ -22,3 +22,8 @@ nav a:hover{
     color: #393e46;
     background-color: #eeeeee;
 }
+
+.banner-image{
+    margin: auto;
+    width: 100%;
+}
